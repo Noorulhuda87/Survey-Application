@@ -1,14 +1,6 @@
 /*
-    Project: Tech Titans Survey App
-    Class: Comp229 Sec 402
-    Authors: 
-        Noorulhuda Khamees  – 301291589
-        Ronald Hardock      – 301274360
-        Amer Ajjawi         – 301319092
-        Blake Hewitt        – 301279469
-        Gabriel Normand     – 301293488
-        Jordi Llobet Ferre  – 301261208
-
+ Authors:  Noorulhuda Khamees  – 301291589
+      
     File Description:
     This file defines functions to perform Survey CRUD operations accessing the back end api endpoints of the Survey App.
 */
